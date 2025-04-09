@@ -1,10 +1,10 @@
 # Teste Desenvolvedor 2
 
+**Observação: Os arquivos encontra na branch master**
+
 Este repositório contém a resolução de um teste técnico para a vaga de **Desenvolvedor 2**, com foco em lógica de programação, manipulação de arquivos e estruturas de dados utilizando **Python**.
 
 > Desenvolvido utilizando o IDLE como IDE.
-
----
 
 ## Estrutura do Projeto
 
